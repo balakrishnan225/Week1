@@ -2,6 +2,7 @@
 
 
 Dataset for the project is linked here: https://www.kaggle.com/datasers/techsash/waste-classification-data
+
 or use the kaggle link to get the download directly
 
 
